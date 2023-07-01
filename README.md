@@ -1,2 +1,2 @@
 # learngitsuperrr
-Learning is always worthwhile. Keep learning and always be anxious.
+Learning is always worthwhile. Keep learning and always be curious.
